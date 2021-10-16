@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Justas!
+- 👀 I’m interested in scripting, making mobile/deskop apps!
+- 🌱 I’m currently learning Java, Javascript & Python!
